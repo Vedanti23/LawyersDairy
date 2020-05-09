@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133641415806",
+    "firebase_url": "https://lawyers-diary-75513.firebaseio.com",
+    "project_id": "lawyers-diary-75513",
+    "storage_bucket": "lawyers-diary-75513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133641415806:android:6ee1492283e5ccb4f83c2f",
+        "android_client_info": {
+          "package_name": "com.example.lawyersdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133641415806-3bicgmccr4rvs77n5kvc4ku8vg3bb9ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lawyersdiary",
+            "certificate_hash": "8c386a33cc857a34c5e3d6e4776d6f9f0d7f878d"
+          }
+        },
+        {
+          "client_id": "133641415806-8a4l0pckk9ed68ns59nl11n17od41p6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxHHFxwaktFVymAt3wGo0SK4jPCCpSfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133641415806-8a4l0pckk9ed68ns59nl11n17od41p6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
